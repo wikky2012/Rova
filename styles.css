@@ -63,7 +63,7 @@ span a:hover{
      
  }
  div img{
-     padding-right: 10px;
+     padding-right: 8px;
      
  }
  header h1{
@@ -104,11 +104,18 @@ footer{
     margin-top: 0px;
     margin-bottom: 0px;
     width:100%;
-    background-color: palevioletred;
+    background-color: lightgray;
+    padding:10px;
 }
 p{
     display:block;
 }
+
 h5{
     color: saddlebrown;
+}
+.about_us{
+    text-align: center;
+    margin: 10% 40% 10% 20%;
+    
 }
